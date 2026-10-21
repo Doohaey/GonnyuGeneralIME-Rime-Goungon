@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_goungon
-version: "1.2.2"
+version: "1.2.3"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -139,6 +139,10 @@ use_preset_vocabulary: false
 上校	Gsong xiao	126965
 上校	shang Gxiau	126965
 上校	shang xiao	126965
+上高	Gsong Ggou	100000
+上高	Gsong gao	100000
+上高	shang Ggou	100000
+上高	shang gao	100000
 下	Gha	120000
 下	Gnga	120000
 下	xia	120000
@@ -256,6 +260,10 @@ use_preset_vocabulary: false
 中间	zhong jian	124563
 丰	Gfung	120000
 丰	feng	120000
+丰城	Gfung Gten	100000
+丰城	Gfung cheng	100000
+丰城	feng Gten	100000
+丰城	feng cheng	100000
 串	Gqyuon	200000
 串	chuan	200000
 串通	Gqyuon Gtung	129552
@@ -870,6 +878,10 @@ use_preset_vocabulary: false
 全	quan	200000
 八	Gbat	160000
 八	ba	160000
+八都	Gbat Gdu	100000
+八都	Gbat dou	100000
+八都	ba Gdu	100000
+八都	ba dou	100000
 公	Ggung	200000
 公	gong	200000
 六	Gyiuk	200000
@@ -1071,6 +1083,7 @@ use_preset_vocabulary: false
 分娩	Gfen Gmiên	126478
 分娩	Gfen mian	126478
 分娩	fen mian	126478
+分宜	Gfen Gyi	100000
 切	Gqiêt	200000
 切	qie	200000
 刊	Gkon	120000
@@ -1355,6 +1368,10 @@ use_preset_vocabulary: false
 卖	Gmai	175000
 南	Glon	180001
 南	nan	180001
+南昌	Glon Gtong	100000
+南昌	Glon chang	100000
+南昌	nan Gtong	100000
+南昌	nan chang	100000
 博	Gbok	120000
 博	bo	120000
 博士	Gbok Gsu	129075
@@ -1618,6 +1635,14 @@ use_preset_vocabulary: false
 吉凶	Gjit xiong	128527
 吉凶	ji Gxiung	128527
 吉凶	ji xiong	128527
+吉安	Gjit Gngon	100000
+吉安	Gjit an	100000
+吉安	ji Gngon	100000
+吉安	ji an	100000
+吉水	Gjit Gheo	100000
+吉水	Gjit shui	100000
+吉水	ji Gheo	100000
+吉水	ji shui	100000
 吊	Gdiêu	145000
 吊	Gliêu	145000
 吊	diao	145000
@@ -2677,6 +2702,10 @@ use_preset_vocabulary: false
 宾	Gbin	200000
 宿	Gxiuk	105000
 宿	su	105000
+宿松	Gxiuk Gsung	100000
+宿松	Gxiuk song	100000
+宿松	su Gsung	100000
+宿松	su song	100000
 宿舍	Gxiuk Gsa	129829
 宿舍	Gxiuk she	129829
 宿舍	su Gsa	129829
@@ -3176,6 +3205,10 @@ use_preset_vocabulary: false
 弆	ju	100000
 弊	Gpi	120000
 弊	bi	120000
+弋	Gyi	100000
+弋阳	Gyi Gyong	100000
+弋阳	Gyi yang	100000
+弋阳	yi yang	100000
 式	Gset	200000
 式	shi	200000
 弓	Ggung	145000
@@ -4355,6 +4388,9 @@ use_preset_vocabulary: false
 斯	Gsu	145000
 斯	si	145000
 新	Gxin	200000
+新余	Gxin Ge	100000
+新余	Gxin yu	100000
+新余	xin yu	100000
 新闻	Gxin Gwen	127406
 新鲜	Gxin Gxiên	122392
 新鲜	Gxin xian	122392
@@ -4457,6 +4493,11 @@ use_preset_vocabulary: false
 星	Gxiang	120000
 星	Gxin	120000
 星	xing	120000
+星子	Gxiang Gzu	100000
+星子	Gxin Gzu	100000
+星子	Gxin zi	100000
+星子	xing Gzu	100000
+星子	xing zi	100000
 星宿	Gxiang Gxiuk	126670
 星宿	Gxin Gxiuk	126670
 星宿	Gxin xiu	126670
@@ -5027,6 +5068,10 @@ use_preset_vocabulary: false
 横	Ghên	200000
 横	Gwang	200000
 横	heng	200000
+横峰	Gwang Gfung	100000
+横峰	Gwang feng	100000
+横峰	heng Gfung	100000
+横峰	heng feng	100000
 横直	Gwang Gtet	129592
 横直	Gwang zhi	129592
 横直	heng Gtet	129592
@@ -6798,6 +6843,12 @@ use_preset_vocabulary: false
 筛	shai	120000
 筝	Gzên	109332
 筝	zheng	109332
+筠	Geon	100000
+筠	yun	100000
+筠阳	Geon Gyong	100000
+筠阳	Geon yang	100000
+筠阳	yun Gyong	100000
+筠阳	yun yang	100000
 筵	Gyên	90000
 筵	yan	90000
 筵席	Gyên Gxit	125367
@@ -9209,6 +9260,10 @@ use_preset_vocabulary: false
 遁地而走	dun di er zou	129341
 遂	Gxi	120000
 遂	sui	120000
+遂川	Gxi Gqyuon	100000
+遂川	Gxi chuan	100000
+遂川	sui Gqyuon	100000
+遂川	sui chuan	100000
 遇	Ge	100000
 遇	yu	100000
 遍	Gpiên	180000
@@ -10128,6 +10183,10 @@ use_preset_vocabulary: false
 高兴	Ggou xing	122476
 高兴	gao Gxin	122476
 高兴	gao xing	122476
+高安	Ggou Gngon	100000
+高安	Ggou an	100000
+高安	gao Gngon	100000
+高安	gao an	100000
 鬃	Gzung	90000
 鬃	zong	90000
 鬓	Gbin	101607
@@ -10251,6 +10310,9 @@ use_preset_vocabulary: false
 黄	Gwong	120000
 黄	huang	120000
 黎	Gli	120000
+黎川	Gli Gqyuon	100000
+黎川	Gli chuan	100000
+黎川	li chuan	100000
 黏	Gyên	90000
 黏	nian	90000
 黑	Ghêt	125000

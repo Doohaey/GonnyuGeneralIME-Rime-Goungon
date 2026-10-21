@@ -2,7 +2,7 @@
 schema:
   schema_id: gannyu_goungon
   name: 赣语－高安
-  version: "1.2.2"
+  version: "1.2.3"
   author:
     - GannyuInputMethod contributors
   description: |
