@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_goungon
-version: "1.2.3"
+version: "1.2.4"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -36,7 +36,7 @@ use_preset_vocabulary: false
 㲃	Gjiu	100000
 䁐	Gyang	100000
 䁐牛	Gyang Gngiêu	121872
-䁐牛	Gyang Gyiu	121872
+䁐牛	Gyang Wyiu	121872
 䁐牛	Gyang niu	121872
 䁐牛	yang niu	121872
 䐁	Gduk	100000
@@ -111,8 +111,8 @@ use_preset_vocabulary: false
 万	Gwan	120000
 丈	Gtong	120000
 丈	zhang	120000
-丈人	Gtong Glen	127586
 丈人	Gtong Gyin	127586
+丈人	Gtong Wlen	127586
 丈人	Gtong ren	127586
 丈人	zhang Gyin	127586
 丈人	zhang ren	127586
@@ -351,7 +351,7 @@ use_preset_vocabulary: false
 书	shu	200000
 书呆子	Ghe Gdai Gzu	123090
 书呆子	Ghe Gdai zi	123090
-书呆子	Ghe Gngoi Gzu	123090
+书呆子	Ghe Wngoi Gzu	123090
 书呆子	shu Gdai Gzu	123090
 书呆子	shu Gdai zi	123090
 书呆子	shu dai zi	123090
@@ -433,8 +433,8 @@ use_preset_vocabulary: false
 亲家	Gqin jia	124163
 亲家	qing Gga	124163
 亲家	qing jia	124163
-亲生	Gqin Gsang	123071
 亲生	Gqin Gsên	123071
+亲生	Gqin Wsang	123071
 亲生	Gqin sheng	123071
 亲生	qin sheng	123071
 人	Glen	120000
@@ -442,12 +442,12 @@ use_preset_vocabulary: false
 人	ren	120000
 人参	Glen Gsên	122633
 人参	Glen shen	122633
-人参	Gyin Gsên	122633
+人参	Wyin Gsên	122633
 人参	ren Gsên	122633
 人参	ren shen	122633
-人才	Glen Gcoi	129468
 人才	Gyin Gcoi	129468
 人才	Gyin cai	129468
+人才	Wlen Gcoi	129468
 人才	ren Gcoi	129468
 人才	ren cai	129468
 亿	Gyi	145000
@@ -468,8 +468,8 @@ use_preset_vocabulary: false
 仅	Gjin	130000
 仆	Gpuk	120000
 仆	pu	120000
-仆人	Gpuk Glen	122380
 仆人	Gpuk Gyin	122380
+仆人	Gpuk Wlen	122380
 仆人	Gpuk ren	122380
 仆人	pu Gyin	122380
 仆人	pu ren	122380
@@ -952,8 +952,8 @@ use_preset_vocabulary: false
 冒	mao	120000
 冗	Glung	145000
 冗	rong	145000
-冗长	Glung Gmang	121568
 冗长	Glung Gtong	121568
+冗长	Glung Wmang	121568
 冗长	Glung chang	121568
 冗长	rong Gtong	121568
 冗长	rong chang	121568
@@ -1327,8 +1327,8 @@ use_preset_vocabulary: false
 匾	bian	120000
 匿	Gmit	120000
 匿	ni	120000
-匿名	Gmit Gmiang	120465
 匿名	Gmit Gmin	120465
+匿名	Gmit Wmiang	120465
 匿名	Gmit ming	120465
 匿名	ni Gmin	120465
 匿名	ni ming	120465
@@ -1387,8 +1387,8 @@ use_preset_vocabulary: false
 占卜	Gdên bu	126949
 占卜	zhan Gpuk	126949
 占卜	zhan bu	126949
-占领	Gdên Gliang	124609
 占领	Gdên Glin	124609
+占领	Gdên Wliang	124609
 占领	Gdên ling	124609
 占领	zhan Glin	124609
 占领	zhan ling	124609
@@ -1658,7 +1658,7 @@ use_preset_vocabulary: false
 后	Ghêu	200000
 后	hou	200000
 后生	Ghêu Gsang	100000
-后生	Ghêu Gsên	100000
+后生	Ghêu Wsên	100000
 后生	Ghêu sheng	100000
 后生	hou Gsang	100000
 后生	hou sheng	100000
@@ -1666,7 +1666,7 @@ use_preset_vocabulary: false
 后生可畏	Ghêu Gsang Gko wei	123678
 后生可畏	Ghêu Gsang ke Gwi	123678
 后生可畏	Ghêu Gsang ke wei	123678
-后生可畏	Ghêu Gsên Gko Gwi	123678
+后生可畏	Ghêu Wsên Gko Gwi	123678
 后生可畏	Ghêu sheng Gko Gwi	123678
 后生可畏	Ghêu sheng Gko wei	123678
 后生可畏	Ghêu sheng ke Gwi	123678
@@ -2172,8 +2172,8 @@ use_preset_vocabulary: false
 埃	Gngai	120000
 埃	ai	120000
 埋	Gmai	120000
-埋人	Gmai Glen	100000
 埋人	Gmai Gyin	100000
+埋人	Gmai Wlen	100000
 埋人	Gmai ren	100000
 埋人	mai ren	100000
 城	Gten	120000
@@ -2643,8 +2643,8 @@ use_preset_vocabulary: false
 宝	bao	150000
 实	Gset	200000
 实	shi	200000
-实在人	Gset Gcoi Glen	120333
 实在人	Gset Gcoi Gyin	120333
+实在人	Gset Gcoi Wlen	120333
 实在人	Gset Gcoi ren	120333
 实在人	Gset zai Gyin	120333
 实在人	Gset zai ren	120333
@@ -3077,9 +3077,9 @@ use_preset_vocabulary: false
 平	Gpiang	120000
 平	Gpin	120000
 平	ping	120000
-平台	Gpiang Gtoi	122894
 平台	Gpin Gtoi	122894
 平台	Gpin tai	122894
+平台	Wpiang Gtoi	122894
 平台	ping Gtoi	122894
 平台	ping tai	122894
 年	Gyên	200000
@@ -3400,8 +3400,8 @@ use_preset_vocabulary: false
 忽子	hu Gzu	100000
 忽子	hu zi	100000
 忿	Gfen	109322
-忿忿不平	Gfen Gfen Gbit Gpiang	120873
 忿忿不平	Gfen Gfen Gbit Gpin	120873
+忿忿不平	Gfen Gfen Gbit Wpiang	120873
 忿忿不平	Gfen Gfen Gbit ping	120873
 忿忿不平	Gfen Gfen bu Gpin	120873
 忿忿不平	Gfen Gfen bu ping	120873
@@ -4122,7 +4122,7 @@ use_preset_vocabulary: false
 提	ti	120000
 提倡	Gti Gtong	122156
 提倡	Gti chang	122156
-提倡	Gtia Gtong	122156
+提倡	Wtia Gtong	122156
 提倡	ti chang	122156
 插	Gcat	120000
 插	cha	120000
@@ -4250,8 +4250,8 @@ use_preset_vocabulary: false
 擒	qin	120000
 擘	Gbok	90000
 擘	bai	90000
-擘花生	Gbok Gfa Gsang	128315
 擘花生	Gbok Gfa Gsên	128315
+擘花生	Gbok Gfa Wsang	128315
 擘花生	Gbok Gfa sheng	128315
 擘花生	Gbok hua Gsên	128315
 擘花生	Gbok hua sheng	128315
@@ -4426,7 +4426,7 @@ use_preset_vocabulary: false
 日	ri	200000
 日历	Glet Glit	124721
 日历	Glet li	124721
-日历	Gyit Glit	124721
+日历	Wyit Glit	124721
 日历	ri Glit	124721
 日历	ri li	124721
 旦	Gdan	145000
@@ -4470,15 +4470,15 @@ use_preset_vocabulary: false
 明	Gmiang	120000
 明	Gmin	120000
 明	ming	120000
-明日	Gmiang Glet	200000
 明日	Gmiang Gyit	200000
+明日	Gmiang Wlet	200000
 明日	Gmiang ri	200000
-明日	Gmin Glet	200000
-明日	Gmin Gyit	200000
+明日	Wmin Gyit	200000
+明日	Wmin Wlet	200000
 明日	ming Gyit	200000
 明日	ming ri	200000
-明矾	Gmiang Gfan	126318
 明矾	Gmin Gfan	126318
+明矾	Wmiang Gfan	126318
 明矾	ming Gfan	126318
 明矾	ming fan	126318
 昏	Gfen	120000
@@ -4493,14 +4493,14 @@ use_preset_vocabulary: false
 星	Gxiang	120000
 星	Gxin	120000
 星	xing	120000
-星子	Gxiang Gzu	100000
 星子	Gxin Gzu	100000
 星子	Gxin zi	100000
+星子	Wxiang Gzu	100000
 星子	xing Gzu	100000
 星子	xing zi	100000
-星宿	Gxiang Gxiuk	126670
 星宿	Gxin Gxiuk	126670
 星宿	Gxin xiu	126670
+星宿	Wxiang Gxiuk	126670
 星宿	xing Gxiuk	126670
 星宿	xing xiu	126670
 映	Gyin	120000
@@ -4515,8 +4515,8 @@ use_preset_vocabulary: false
 昧	mei	100931
 昨	Gcok	120000
 昨	zuo	120000
-昨日	Gcok Glet	175000
 昨日	Gcok Gyit	175000
+昨日	Gcok Wlet	175000
 昨日	Gcok ri	175000
 昨日	zuo Gyit	175000
 昨日	zuo ri	175000
@@ -4777,7 +4777,7 @@ use_preset_vocabulary: false
 枉	wang	120000
 枉为人师	Gwong Gwi Glen Gsu	124535
 枉为人师	Gwong Gwi Glen shi	124535
-枉为人师	Gwong Gwi Gyin Gsu	124535
+枉为人师	Gwong Gwi Wyin Gsu	124535
 枉为人师	Gwong Gwi ren Gsu	124535
 枉为人师	Gwong Gwi ren shi	124535
 枉为人师	Gwong wei Glen Gsu	124535
@@ -5534,7 +5534,7 @@ use_preset_vocabulary: false
 淤	Ge	104142
 淤	yu	104142
 淤青	Ge Gqiang	127631
-淤青	Ge Gqin	127631
+淤青	Ge Wqin	127631
 淤青	Ge qing	127631
 淤青	yu Gqiang	127631
 淤青	yu qing	127631
@@ -5672,8 +5672,8 @@ use_preset_vocabulary: false
 潲	shao	129704
 澄	Gten	105547
 澄	cheng	105547
-澄清	Gten Gqiang	128091
 澄清	Gten Gqin	128091
+澄清	Gten Wqiang	128091
 澄清	Gten qing	128091
 澄清	cheng Gqin	128091
 澄清	cheng qing	128091
@@ -5903,17 +5903,17 @@ use_preset_vocabulary: false
 牛	Gyiu	120000
 牛	niu	120000
 牛牯	Gngiêu Ggu	122005
-牛牯	Gyiu Ggu	122005
+牛牯	Wyiu Ggu	122005
 牛牯	niu Ggu	122005
 牛牯	niu gu	122005
-牛犊	Gngiêu Gtuk	124343
 牛犊	Gyiu Gtuk	124343
 牛犊	Gyiu du	124343
+牛犊	Wngiêu Gtuk	124343
 牛犊	niu Gtuk	124343
 牛犊	niu du	124343
 牛虻	Gngiêu Gmong	120677
 牛虻	Gngiêu meng	120677
-牛虻	Gyiu Gmong	120677
+牛虻	Wyiu Gmong	120677
 牛虻	niu Gmong	120677
 牛虻	niu meng	120677
 牡	Gmêu	120000
@@ -6021,8 +6021,8 @@ use_preset_vocabulary: false
 率	Glit	200000
 率	Gsoi	200000
 率	lv	200000
-率领	Gsoi Gliang	128419
 率领	Gsoi Glin	128419
+率领	Gsoi Wliang	128419
 率领	Gsoi ling	128419
 率领	shuai Glin	128419
 率领	shuai ling	128419
@@ -6107,14 +6107,14 @@ use_preset_vocabulary: false
 生	Gsang	120000
 生	Gsên	120000
 生	sheng	120000
-生活	Gsang Gwêt	129222
 生活	Gsên Gwêt	129222
 生活	Gsên huo	129222
+生活	Wsang Gwêt	129222
 生活	sheng Gwêt	129222
 生活	sheng huo	129222
-生长	Gsang Gdong	120341
 生长	Gsên Gdong	120341
 生长	Gsên zhang	120341
+生长	Wsang Gdong	120341
 生长	sheng Gdong	120341
 生长	sheng zhang	120341
 甥	Gsang	120000
@@ -6397,7 +6397,7 @@ use_preset_vocabulary: false
 看见	kan jian	128323
 眏	Gyang	100000
 眏牛	Gyang Gngiêu	121872
-眏牛	Gyang Gyiu	121872
+眏牛	Gyang Wyiu	121872
 眏牛	Gyang niu	121872
 眏牛	yang niu	121872
 真	Gden	120000
@@ -6504,7 +6504,7 @@ use_preset_vocabulary: false
 砑	Gngat	11924
 砑	ya	11924
 砑平	Gngat Gpiang	122078
-砑平	Gngat Gpin	122078
+砑平	Gngat Wpin	122078
 砑平	Gngat ping	122078
 砑平	ya Gpiang	122078
 砑平	ya ping	122078
@@ -6860,18 +6860,18 @@ use_preset_vocabulary: false
 筹	chou	120000
 签	Gqiên	200000
 签	qian	200000
-签名	Gqiên Gmiang	123908
 签名	Gqiên Gmin	123908
+签名	Gqiên Wmiang	123908
 签名	Gqiên ming	123908
 签名	qian Gmin	123908
 签名	qian ming	123908
 简	Ggan	130000
 简	jian	130000
-简明扼要	Ggan Gmiang Gngok Gyêu	125867
 简明扼要	Ggan Gmin Gngok Gyêu	125867
 简明扼要	Ggan Gmin Gngok yao	125867
 简明扼要	Ggan Gmin e Gyêu	125867
 简明扼要	Ggan Gmin e yao	125867
+简明扼要	Ggan Wmiang Gngok Gyêu	125867
 简明扼要	Ggan ming Gngok Gyêu	125867
 简明扼要	Ggan ming Gngok yao	125867
 简明扼要	Ggan ming e Gyêu	125867
@@ -7060,9 +7060,9 @@ use_preset_vocabulary: false
 纯净水	chun Gqin shui	124984
 纯净水	chun jing Gheo	124984
 纯净水	chun jing shui	124984
-纯牛奶	Ghen Gngiêu Glai	129852
 纯牛奶	Ghen Gyiu Glai	129852
 纯牛奶	Ghen Gyiu nai	129852
+纯牛奶	Ghen Wngiêu Glai	129852
 纯牛奶	Ghen niu Glai	129852
 纯牛奶	Ghen niu nai	129852
 纯牛奶	chun Gyiu Glai	129852
@@ -7238,10 +7238,12 @@ use_preset_vocabulary: false
 缝	Gfung	120000
 缝	Gliên	120000
 缝	feng	120000
-缝衣服	Gfung Gyi Gwuk	127054
+缝衣服	Gfung Gyi Gwuk	125953
 缝衣服	Gfung Gyi fu	125953
 缝衣服	Gliên Gyi Gwuk	127054
 缝衣服	Gliên Gyi fu	127054
+缝衣服	Wfung Gyi Gwuk	127054
+缝衣服	Wliên Gyi Gwuk	125953
 缝衣服	feng Gyi Gwuk	127054
 缝衣服	feng Gyi fu	127054
 缝衣服	feng yi fu	127054
@@ -7293,7 +7295,7 @@ use_preset_vocabulary: false
 署	Ghe	100000
 署	shu	100000
 署名	Ghe Gmiang	126336
-署名	Ghe Gmin	126336
+署名	Ghe Wmin	126336
 署名	Ghe ming	126336
 署名	shu Gmiang	126336
 署名	shu ming	126336
@@ -7360,8 +7362,8 @@ use_preset_vocabulary: false
 老太婆	Glou Gtai Gpo	124698
 老太婆	lao Gtai Gpo	124698
 老太婆	lao tai po	124698
-老实人	Glou Gset Glen	124573
 老实人	Glou Gset Gyin	124573
+老实人	Glou Gset Wlen	124573
 老实人	Glou Gset ren	124573
 老实人	Glou shi Gyin	124573
 老实人	Glou shi ren	124573
@@ -7621,8 +7623,10 @@ use_preset_vocabulary: false
 腋	ye	104427
 腋下	Gxiêt Gha	129831
 腋下	Gxiêt xia	129831
-腋下	Gyit Gha	129831
+腋下	Gyit Gha	128601
 腋下	Gyit xia	128601
+腋下	Wxiêt Gha	128601
+腋下	Wyit Gha	129831
 腋下	ye Gha	129831
 腋下	ye xia	129831
 腌	Gyên	90000
@@ -7932,7 +7936,7 @@ use_preset_vocabulary: false
 萝	Glo	100000
 萝	luo	100000
 萝卜丁	Glo Gpuk Gdiang	124761
-萝卜丁	Glo Gpuk Gdin	124761
+萝卜丁	Glo Gpuk Wdin	124761
 萝卜丁	Glo Gpuk ding	124761
 萝卜丁	Glo bo Gdiang	124761
 萝卜丁	Glo bo ding	124761
@@ -8463,8 +8467,8 @@ use_preset_vocabulary: false
 许年	Gha nian	657
 许年	xu Gyên	657
 许年	xu nian	657
-许日	Gha Glet	754
 许日	Gha Gyit	754
+许日	Gha Wlet	754
 许日	Gha ri	754
 许日	xu Gyit	754
 许日	xu ri	754
@@ -8594,8 +8598,8 @@ use_preset_vocabulary: false
 话多	hua duo	120453
 诞	Gtan	104129
 诞	dan	104129
-诞生	Gtan Gsang	120709
 诞生	Gtan Gsên	120709
+诞生	Gtan Wsang	120709
 诞生	Gtan sheng	120709
 诞生	dan Gsên	120709
 诞生	dan sheng	120709
@@ -9024,8 +9028,8 @@ use_preset_vocabulary: false
 轻	Gxiang	120000
 轻	Gxin	120000
 轻	qing	120000
-轻浮	Gxiang Gfu	121235
 轻浮	Gxin Gfu	121235
+轻浮	Wxiang Gfu	121235
 轻浮	qing Gfu	121235
 轻浮	qing fu	121235
 载	Gzoi	120000
@@ -9417,11 +9421,11 @@ use_preset_vocabulary: false
 野	ye	200000
 量	Gliong	200000
 量	liang	200000
-量长短	Gliong Gmang Gduon	127289
-量长短	Gliong Gmang Glang	127289
 量长短	Gliong Gtong Gduon	127289
-量长短	Gliong Gtong Glang	127289
+量长短	Gliong Gtong Wlang	127289
 量长短	Gliong Gtong duan	127289
+量长短	Gliong Wmang Gduon	127289
+量长短	Gliong Wmang Wlang	127289
 量长短	Gliong chang Gduon	127289
 量长短	Gliong chang duan	127289
 量长短	liang Gtong Gduon	127289
@@ -9668,7 +9672,7 @@ use_preset_vocabulary: false
 闷	Gmin	120000
 闷	men	120000
 闷热	Gmin Glêt	124305
-闷热	Gmin Gyêt	124305
+闷热	Gmin Wyêt	124305
 闷热	Gmin re	124305
 闷热	men Glêt	124305
 闷热	men re	124305
@@ -9725,8 +9729,8 @@ use_preset_vocabulary: false
 陋	lou	120000
 陌	Gmêt	120000
 陌	mo	120000
-陌生	Gmêt Gsang	120955
 陌生	Gmêt Gsên	120955
+陌生	Gmêt Wsang	120955
 陌生	Gmêt sheng	120955
 陌生	mo Gsên	120955
 陌生	mo sheng	120955
@@ -9864,8 +9868,10 @@ use_preset_vocabulary: false
 靖	jing	120000
 靖安	Gqia Gngon	126159
 靖安	Gqia an	126159
-靖安	Gqin Gngon	126159
+靖安	Gqin Gngon	125735
 靖安	Gqin an	125735
+靖安	Wqia Gngon	125735
+靖安	Wqin Gngon	126159
 靖安	jing Gngon	126159
 靖安	jing an	126159
 静	Gqin	100000
@@ -10099,8 +10105,8 @@ use_preset_vocabulary: false
 驮东西	tuo Gdung Gxi	128023
 驮东西	tuo dong Gxi	128023
 驮东西	tuo dong xi	128023
-驮人	Gho Glen	121657
 驮人	Gho Gyin	121657
+驮人	Gho Wlen	121657
 驮人	Gho ren	121657
 驮人	tuo Gyin	121657
 驮人	tuo ren	121657
