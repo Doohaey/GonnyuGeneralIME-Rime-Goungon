@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_goungon_special_mix_nowenbai
   name: goungon
-  version: "1.2.4"
+  version: "1.2.7"
 translator:
   dictionary: gannyu_goungon
   prism: gannyu_goungon_special_mix_nowenbai

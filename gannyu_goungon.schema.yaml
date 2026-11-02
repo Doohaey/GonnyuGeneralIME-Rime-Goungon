@@ -2,7 +2,7 @@
 schema:
   schema_id: gannyu_goungon
   name: 赣语－高安
-  version: "1.2.4"
+  version: "1.2.7"
   dependencies:
     - gannyu_goungon_nowenbai
     - gannyu_goungon_full_gan
