@@ -1,15 +1,20 @@
 schema:
   schema_id: gannyu_goungon_both_norel_nowenbai
   name: goungon
-  version: "1.3.0"
+  version: "1.3.1"
 translator:
   dictionary: gannyu_goungon
   prism: gannyu_goungon_nowenbai
   dictionary_exclude:
     - "哪个"
+    - "天亮"
+    - "太阳"
     - "学校"
     - "小孩子"
     - "敲击"
+    - "时候"
+    - "星星"
+    - "月亮"
     - "极困"
     - "水银"
     - "猪食"
@@ -18,6 +23,7 @@ translator:
     - "花萎"
     - "那个"
     - "那里"
+    - "闪电"
     - "鸟窝"
   user_dict: gannyu_goungon_both_norel
   enable_user_dict: true
@@ -70,12 +76,14 @@ speller:
     - fuzz/^Gcat$/Fca/
     - fuzz/^Gcat$/Fcak/
     - derive/^Gcau$/Fcao/
-    - derive/^Gce$/Fcer/
-    - derive/^Gce$/Fcir/
     - derive/^Gcei$/Fceri/
     - derive/^Gcei$/Fciri/
     - derive/^Gcen$/Fcern/
     - derive/^Gcen$/Fcirn/
+    - derive/^Gceo$/Fcero/
+    - derive/^Gceo$/Fciro/
+    - derive/^Gceon$/Fceron/
+    - derive/^Gceon$/Fciron/
     - fuzz/^Gcet$/Fce/
     - fuzz/^Gcet$/Fcek/
     - fuzz/^Gcet$/Fcep/
@@ -131,6 +139,10 @@ speller:
     - derive/^Gdei$/Fdiri/
     - derive/^Gden$/Fdern/
     - derive/^Gden$/Fdirn/
+    - derive/^Gdeo$/Fdero/
+    - derive/^Gdeo$/Fdiro/
+    - derive/^Gdeon$/Fderon/
+    - derive/^Gdeon$/Fdiron/
     - fuzz/^Gdet$/Fde/
     - fuzz/^Gdet$/Fdek/
     - fuzz/^Gdet$/Fdep/
@@ -309,8 +321,6 @@ speller:
     - derive/^Ghau$/Fhao/
     - derive/^Ghe$/Fher/
     - derive/^Ghe$/Fhir/
-    - derive/^Ghen$/Fhern/
-    - derive/^Ghen$/Fhirn/
     - derive/^Gheo$/Fhero/
     - derive/^Gheo$/Fhiro/
     - derive/^Gheon$/Fheron/
@@ -500,6 +510,8 @@ speller:
     - derive/^Glen$/Fnen/
     - derive/^Glen$/Fnern/
     - derive/^Glen$/Fnirn/
+    - derive/^Gleon$/Fleron/
+    - derive/^Gleon$/Fliron/
     - fuzz/^Glet$/Fle/
     - fuzz/^Glet$/Flek/
     - fuzz/^Glet$/Flep/
@@ -764,8 +776,6 @@ speller:
     - fuzz/^Gsat$/Fsa/
     - fuzz/^Gsat$/Fsak/
     - derive/^Gsau$/Fsao/
-    - derive/^Gse$/Fser/
-    - derive/^Gse$/Fsir/
     - derive/^Gsei$/Fseri/
     - derive/^Gsei$/Fsiri/
     - derive/^Gsen$/Fsern/
@@ -823,12 +833,14 @@ speller:
     - fuzz/^Gtat$/Fta/
     - fuzz/^Gtat$/Ftak/
     - derive/^Gtau$/Ftao/
-    - derive/^Gte$/Fter/
-    - derive/^Gte$/Ftir/
     - derive/^Gtei$/Fteri/
     - derive/^Gtei$/Ftiri/
     - derive/^Gten$/Ftern/
     - derive/^Gten$/Ftirn/
+    - derive/^Gteo$/Ftero/
+    - derive/^Gteo$/Ftiro/
+    - derive/^Gteon$/Fteron/
+    - derive/^Gteon$/Ftiron/
     - fuzz/^Gtet$/Fte/
     - fuzz/^Gtet$/Ftek/
     - fuzz/^Gtet$/Ftep/
@@ -1066,6 +1078,10 @@ speller:
     - derive/^Gzei$/Fziri/
     - derive/^Gzen$/Fzern/
     - derive/^Gzen$/Fzirn/
+    - derive/^Gzeo$/Fzero/
+    - derive/^Gzeo$/Fziro/
+    - derive/^Gzeon$/Fzeron/
+    - derive/^Gzeon$/Fziron/
     - fuzz/^Gzet$/Fze/
     - fuzz/^Gzet$/Fzek/
     - fuzz/^Gzet$/Fzep/
@@ -1085,9 +1101,8 @@ speller:
     - derive/^Gzuei$/Fzueri/
     - derive/^Gzuei$/Fzui/
     - derive/^Gzuei$/Fzuiri/
-    - derive/^Gzuen$/Fzuern/
-    - derive/^Gzuen$/Fzuirn/
-    - derive/^Gzuen$/Fzun/
+    - derive/^Gzueon$/Fzueron/
+    - derive/^Gzueon$/Fzuiron/
     - derive/^Gzuon$/Fzuen/
     - derive/^Gzuon$/Fzuern/
     - derive/^Gzuon$/Fzuirn/

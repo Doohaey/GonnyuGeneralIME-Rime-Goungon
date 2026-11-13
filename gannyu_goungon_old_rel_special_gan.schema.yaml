@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_goungon_old_rel_special_gan
   name: goungon
-  version: "1.3.0"
+  version: "1.3.1"
 translator:
   dictionary: gannyu_goungon_old_rel
   prism: gannyu_goungon_old_rel_special_gan
@@ -27,12 +27,14 @@ speller:
     - derive/^Gbên$/Fben/
     - derive/^Gbêt$/Fbeet/
     - derive/^Gbêt$/Fbet/
-    - derive/^Gce$/Fcer/
-    - derive/^Gce$/Fcir/
     - derive/^Gcei$/Fceri/
     - derive/^Gcei$/Fciri/
     - derive/^Gcen$/Fcern/
     - derive/^Gcen$/Fcirn/
+    - derive/^Gceo$/Fcero/
+    - derive/^Gceo$/Fciro/
+    - derive/^Gceon$/Fceron/
+    - derive/^Gceon$/Fciron/
     - derive/^Gcet$/Fcert/
     - derive/^Gcet$/Fcirt/
     - derive/^Gcuei$/Fcueri/
@@ -53,6 +55,10 @@ speller:
     - derive/^Gdei$/Fdiri/
     - derive/^Gden$/Fdern/
     - derive/^Gden$/Fdirn/
+    - derive/^Gdeo$/Fdero/
+    - derive/^Gdeo$/Fdiro/
+    - derive/^Gdeon$/Fderon/
+    - derive/^Gdeon$/Fdiron/
     - derive/^Gdet$/Fdert/
     - derive/^Gdet$/Fdirt/
     - derive/^Gdeu$/Fderu/
@@ -117,8 +123,6 @@ speller:
     - derive/^Ggêi$/Fgei/
     - derive/^Ghe$/Fher/
     - derive/^Ghe$/Fhir/
-    - derive/^Ghen$/Fhern/
-    - derive/^Ghen$/Fhirn/
     - derive/^Gheo$/Fhero/
     - derive/^Gheo$/Fhiro/
     - derive/^Gheon$/Fheron/
@@ -161,6 +165,8 @@ speller:
     - derive/^Glei$/Fliri/
     - derive/^Glen$/Flern/
     - derive/^Glen$/Flirn/
+    - derive/^Gleon$/Fleron/
+    - derive/^Gleon$/Fliron/
     - derive/^Glet$/Flert/
     - derive/^Glet$/Flirt/
     - derive/^Gliên$/Flieen/
@@ -223,8 +229,6 @@ speller:
     - derive/^Gqiêt$/Fqiet/
     - derive/^Gqiêu$/Fqieeu/
     - derive/^Gqiêu$/Fqieu/
-    - derive/^Gse$/Fser/
-    - derive/^Gse$/Fsir/
     - derive/^Gsei$/Fseri/
     - derive/^Gsei$/Fsiri/
     - derive/^Gsen$/Fsern/
@@ -247,12 +251,14 @@ speller:
     - derive/^Gsêt$/Fset/
     - derive/^Gsêu$/Fseeu/
     - derive/^Gsêu$/Fseu/
-    - derive/^Gte$/Fter/
-    - derive/^Gte$/Ftir/
     - derive/^Gtei$/Fteri/
     - derive/^Gtei$/Ftiri/
     - derive/^Gten$/Ftern/
     - derive/^Gten$/Ftirn/
+    - derive/^Gteo$/Ftero/
+    - derive/^Gteo$/Ftiro/
+    - derive/^Gteon$/Fteron/
+    - derive/^Gteon$/Ftiron/
     - derive/^Gtet$/Ftert/
     - derive/^Gtet$/Ftirt/
     - derive/^Gteu$/Fteru/
@@ -305,12 +311,16 @@ speller:
     - derive/^Gzei$/Fziri/
     - derive/^Gzen$/Fzern/
     - derive/^Gzen$/Fzirn/
+    - derive/^Gzeo$/Fzero/
+    - derive/^Gzeo$/Fziro/
+    - derive/^Gzeon$/Fzeron/
+    - derive/^Gzeon$/Fziron/
     - derive/^Gzet$/Fzert/
     - derive/^Gzet$/Fzirt/
     - derive/^Gzuei$/Fzueri/
     - derive/^Gzuei$/Fzuiri/
-    - derive/^Gzuen$/Fzuern/
-    - derive/^Gzuen$/Fzuirn/
+    - derive/^Gzueon$/Fzueron/
+    - derive/^Gzueon$/Fzuiron/
     - derive/^Gzên$/Fzeen/
     - derive/^Gzên$/Fzen/
     - derive/^Gzêt$/Fzeet/
